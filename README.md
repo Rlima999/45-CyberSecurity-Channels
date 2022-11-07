@@ -2,7 +2,7 @@
 Youtube Security Channels
 
 𝟒𝟓 𝐂𝐲𝐛𝐞𝐫𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬:
-Some YouTube channels that can help you learn, do you have another one you want to recommend?
+
 1. Hak5 — General cybersecurity coverage.
 2. The XSS Rat — Everythug bounty hunting.
 3. ITProTV — General cybersecurity coverage.
